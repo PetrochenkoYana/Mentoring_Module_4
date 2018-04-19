@@ -1,0 +1,10 @@
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_4_BCL\Module_4_BCL\bin\Debug\Module_4_BCL.exe.config
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_4_BCL\Module_4_BCL\bin\Debug\Module_4_BCL.exe
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_4_BCL\Module_4_BCL\bin\Debug\Module_4_BCL.pdb
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_4_BCL\Module_4_BCL\obj\Debug\Module_4_BCL.exe
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_4_BCL\Module_4_BCL\obj\Debug\Module_4_BCL.pdb
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_4_BCL\Module_4_BCL\obj\Debug\Module_4_BCL.csproj.GenerateResource.Cache
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_4_BCL\Module_4_BCL\bin\Debug\en-US\Module_4_BCL.resources.dll
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_4_BCL\Module_4_BCL\obj\Debug\en-US\Module_4_BCL.resources.dll
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_4_BCL\Module_4_BCL\obj\Debug\Module_4_BCL.Resources.Resources.resources
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_4_BCL\Module_4_BCL\obj\Debug\Module_4_BCL.Resources.Resources.en-US.resources
